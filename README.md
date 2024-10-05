@@ -1,4 +1,4 @@
-# Netflix-Data-Exploration
+# Netflix Exploratory Data Analysis
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" width="1000" height="300"> 
 
 ## About
