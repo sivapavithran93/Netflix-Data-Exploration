@@ -5,6 +5,11 @@
 
 Netflix, Inc. is an American streaming service and production company, offering a vast library of films and TV series, including Netflix Originals. As of March 31, 2023, it has 232.5 million paid memberships in over 190 countries. Founded by Reed Hastings and Marc Randolph in 1997, Netflix started as a DVD rental business before shifting to streaming in 2007, transforming home entertainment.
 
+## Project Report
+
+- You can access the complete project Python file here: [Python](https://github.com/sivapavithran93/Netflix-Data-Exploration/blob/main/Netflix%20Case%20Study%20by%20Pavithran.ipynb).
+- You can access the complete project in PDF format here: [Report](https://github.com/sivapavithran93/Netflix-Data-Exploration/blob/main/Netflix%20Case%20Study%20by%20Pavithran.pdf).
+
 ### Dataset Features
 
 - **Show_id**: Unique ID for every Movie / TV Show
